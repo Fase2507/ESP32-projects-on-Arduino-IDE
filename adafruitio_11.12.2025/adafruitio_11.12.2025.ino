@@ -1,7 +1,7 @@
-#define IO_USERNAME "Fase2507"
-#define IO_KEY      "aio_Sqgp87ZvCfVb7PwrtPkQxB0uvr0j"
+#define IO_USERNAME "yourname"
+#define IO_KEY      "yourkey"
 
-#define WIFI_SSID   "TECNO CAMON 18"
+#define WIFI_SSID   "ssid"
 #define WIFI_PASS   "qazwsx12"
 
 #define LED_PIN LED_BUILTIN   // ESP32 built-in LED
